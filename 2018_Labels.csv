@@ -1,0 +1,84 @@
+﻿COL_ID,COL_DESC
+SEQUENCE_NO,Sequence no.
+FSIZE,Family SIze
+REG_SAL,Salaries/Wages from Regular Employment
+SEASON_SAL,Salaries/Wages from Seasonal Employment
+WAGES,Salaries/Wages from both Agri and Non-Agri Activities
+NETSHARE,"Net Share of Crops, Fruits, etc. (Tot. Net Value of Share)"
+CASH_ABROAD,"Cash Receipts, Support, etc. from Abroad"
+CASH_DOMESTIC,"Cash Receipts, Support, etc. from Domestic Source"
+RENTALS_REC,"Rentals Received from Non-Agri Lands, etc."
+INTEREST,Interest
+PENSION,Pension and Retirement Benefits
+DIVIDENDS,Dividends from Investment
+OTHER_SOURCE,Other Sources of Income NEC
+NET_RECEIPT,Family Sustenance Activities
+REGFT,Total Received as Gifts
+NET_CFG,Crop Farming and Gardening
+NET_LPR,Livestock and Poultry Raising
+NET_FISH,Fishing
+NET_FOR,Forestry and Hunting
+NET_RET,Wholesale and Retail
+NET_MFG,Manufacturing
+NET_COM,"Community, Social, etc. Services"
+NET_TRANS,"Transportation, Storage Services"
+NET_MIN,MIning and Quarrying
+NET_CONS,Construction
+NET_NEC,Entrep. Activities NEC
+EAINC,Total Income from Entrepreneurial Acitivites
+TOINC,Total Income
+LOSSES,Losses from EA
+BREAD,Bread and Cereals
+MEAT,Meat
+FISH,Fish and Seafood
+MILK,"Milk, Cheese and Eggs"
+OIL,Oils and Fats
+FRUIT,Fruit
+VEG,Vegetables
+SUGAR,"Sugar, Jam and Honey, Chocolate and Confetionery"
+FOOD_NEC,Food Products Not Elsewhere Classified
+COFFEE,"Coffee, Tea and Cocoa"
+MINERAL,"Mineral Water, Softdrinks, Fruit and Vegetable Juices"
+ALCOHOL,Alcoholic Beverages
+TOBACCO,Tobacco
+OTHER_VEG,Other Vegetable-Based Products
+FOOD_HOME,Total Food Consumed at Home (Total)
+FOOD_OUTSIDE,Food Regularly Consumed Outside The Home (Total)
+FOOD,Total Food Expeditures
+CLOTH,Clothing and Footwear
+FURNISHING,Furnishings and Routine Household Maintenance
+HEALTH,Health
+HOUSING_WATER,"Housing, Water, Electricity, Gas and Other Fuels"
+ACTRENT,Actual House Rent
+RENTVAL,House Rent/Rental Value
+IMPUTED_RENT,Imputed House Rental Value
+BIMPUTED_RENT,Imputed Housing Benefit Rental Value
+TRANSPORT,Transport
+COMMUNICATION,Communication
+RECREATION,Recreation and Culture
+EDUCATION,Education
+MISCELLANEOUS,Miscellaneous Goods and Services
+DURABLE,Durable Furniture and Equipment
+OCCASION,Special Family Occasion
+OTHER_EXPENDITURE,"Other Expenditure (inc. Value Consumed, Losses)"
+OTHER_DISBURSEMENT,Other Disbursements
+FOOD_ACCOM_SRVC,Food Regularly Consumed Outside The Home - Accomodation Services
+NFOOD,Total Non-Food Expenditure
+TOTEX,Total Expenditure
+TOTDIS,Total Disbursements
+OTHREC,Total Other Receipts
+TOREC,Total Receipts
+PCINC,Per Capita Income
+URB,Urban / Rural
+RPROV,Province (Recode)
+RPSU,Psu (Recode)
+REP,Replicate
+BWEIGHT,Base Weight
+RFACT,Final Weight
+RFACT_POP,Final Weight - Population
+NTOINC,NTOIN
+RTOINC,RTOIN
+PTOINC,PTOINC
+NPCINC,NPCINC
+RPCINC,RPCINC
+PPCINC,pPCINC
